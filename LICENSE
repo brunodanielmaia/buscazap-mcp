@@ -1,0 +1,15 @@
+Copyright (c) 2026 BuscaZap (buscazap.com.br). All rights reserved.
+
+This repository contains ONLY public documentation and configuration
+(README, server.json) for the BuscaZap MCP server, published to help
+clients discover and connect to the hosted service.
+
+The BuscaZap service, its source code, data and integrations are
+proprietary and are NOT included in or licensed by this repository.
+No license is granted to the BuscaZap software itself.
+
+You may reference and link to this repository and the server.json it
+contains for the purpose of integrating with the BuscaZap MCP server.
+
+THE MATERIALS IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY
+OF ANY KIND, EXPRESS OR IMPLIED.
