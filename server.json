@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "br.com.buscazap/busca-produtos",
+  "description": "Find real products across 180+ Brazilian stores from chat context, with a ready-to-buy link.",
+  "version": "1.0.1",
+  "websiteUrl": "https://buscazap.com.br/mcp/parceiros",
+  "repository": {
+    "url": "https://github.com/brunodanielmaia/buscazap-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://buscazap.com.br/mcp"
+    }
+  ]
+}
